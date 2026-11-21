@@ -1,0 +1,5 @@
+### How I built My design 
+
+I broke it into boxes and my design was the Bento-Box design. The most challenging thing for me would definetly be getting used to the bootstrap commands. I honestly wish I used tailwind because I enjoyed that one more but I though I would challenge myself. I honestly just did a bunch of research to get over these challenges. By far the biggest challenge for me was just messing around with the margins and the different colors. Bootstrap unfortunately only has certain colors already programmed so I just put thgem into css with the class because I couldn't figure it out. 
+
+The only thing that was different to me was just putting all my commands in the class box instead of implementing it over to style.css, I think after this project I would much prefer using neither tailwind or just using regular css style sheets because this was difficult.
